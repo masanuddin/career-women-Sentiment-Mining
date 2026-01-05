@@ -1,10 +1,10 @@
 # "Indonesian X Sentiment Mining on Career Woman: Comparative Analysis of BERT and IndoBERT"  
 
-****Special gratitude for our Supervisor 
+Special gratitude for our Supervisor 
 Muhammad Fikri Hasani S.Kom., M.T. D6421
 
-****Thank you  
-****Regards, 
+Thank you  
+Regards, 
 ELMER WILLIAMS | MARCELLINO ASANUDDIN | RAFAEL FEBRIAN
 
 ### Comparative Analysis of BERT and IndoBERT
